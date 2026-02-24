@@ -48,6 +48,13 @@ public class PlayerJump : MonoBehaviour
 }
 ```
 ### Output:
+Before Jumping:
+
+![image](https://github.com/user-attachments/assets/ef3a5e62-6339-4fa1-b801-8b0e900b51fb)
+
+Jumping:
+
+![image](https://github.com/user-attachments/assets/3a231701-694a-4dc3-9d8c-50911ab6b0f2)
 
 
 
